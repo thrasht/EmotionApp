@@ -27,5 +27,6 @@ namespace Emotion.Web.Models
         public DbSet<EmoPicture> EmoPictures { get; set; }
 
         public DbSet<EmoEmotion> EmoEmotions { get; set; }
+        public DbSet<Home> Home { get; set; }
     }
 }

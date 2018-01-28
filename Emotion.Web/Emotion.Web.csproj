@@ -142,6 +142,7 @@
     <Compile Include="Controllers\EmoEmotionsController.cs" />
     <Compile Include="Controllers\EmoFacesController.cs" />
     <Compile Include="Controllers\EmoPicturesController.cs" />
+    <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -150,6 +151,7 @@
     <Compile Include="Models\EmoFace.cs" />
     <Compile Include="Models\EmoPicture.cs" />
     <Compile Include="Models\EmotionWebContext.cs" />
+    <Compile Include="Models\Home.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -173,6 +175,9 @@
     <Content Include="Views\EmoEmotions\Details.cshtml" />
     <Content Include="Views\EmoEmotions\Edit.cshtml" />
     <Content Include="Views\EmoEmotions\Index.cshtml" />
+    <Content Include="Views\Home\Index.cshtml" />
+    <Content Include="Views\Home\IndexAlt.cshtml" />
+    <Content Include="Views\Shared\_MyLayout.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
