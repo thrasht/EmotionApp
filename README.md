@@ -1,0 +1,2 @@
+# EmotionApp
+.Net Framework C#
