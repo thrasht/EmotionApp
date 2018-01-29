@@ -10,7 +10,7 @@ using System.Web.Http;
 using System.Web.Http.Description;
 using Emotion.Web.Models;
 
-namespace WebApplication1.Controllers
+namespace Emotion.Web.Controllers
 {
     public class EmoEmotionsAPIController : ApiController
     {
