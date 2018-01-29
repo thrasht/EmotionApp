@@ -13,7 +13,7 @@ namespace Emotion.Web.Models
         public String Name { get; set; }
 
         [Required]
-        [MaxLength(10)]
+        [MaxLength(200)]
         public String Path { get; set; }
 
         public virtual ObservableCollection<EmoFace> Faces { get; set; }
