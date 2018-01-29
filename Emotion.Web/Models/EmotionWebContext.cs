@@ -15,7 +15,7 @@ namespace Emotion.Web.Models
         // For more information refer to the documentation:
         // http://msdn.microsoft.com/en-us/data/jj591621.aspx
     
-        public EmotionWebContext() : base("name=EmotionAzure")
+        public EmotionWebContext() : base("name=EmotionWebContext")
         {
             Database.SetInitializer<EmotionWebContext>(
                 new DropCreateDatabaseIfModelChanges<EmotionWebContext>()

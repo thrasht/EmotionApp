@@ -91,3 +91,9 @@ C:\Ingresa\EmotionAppCS\Emotion.Web\bin\System.Web.Http.WebHost.xml
 C:\Ingresa\EmotionAppCS\Emotion.Web\obj\Debug\Emotion.Web.csprojResolveAssemblyReference.cache
 C:\Ingresa\EmotionAppCS\Emotion.Web\obj\Debug\Emotion.Web.dll
 C:\Ingresa\EmotionAppCS\Emotion.Web\obj\Debug\Emotion.Web.pdb
+C:\Ingresa\EmotionAppCS\Emotion.Web\bin\Microsoft.ProjectOxford.Common.dll
+C:\Ingresa\EmotionAppCS\Emotion.Web\bin\System.Net.Http.Extensions.dll
+C:\Ingresa\EmotionAppCS\Emotion.Web\bin\System.Net.Http.Primitives.dll
+C:\Ingresa\EmotionAppCS\Emotion.Web\bin\System.Net.Http.Extensions.xml
+C:\Ingresa\EmotionAppCS\Emotion.Web\bin\System.Net.Http.Primitives.xml
+C:\Ingresa\EmotionAppCS\Emotion.Web\obj\Debug\Emotion.Web.csproj.App.config
